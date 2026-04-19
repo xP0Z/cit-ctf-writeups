@@ -1,0 +1,5 @@
+baseURL = 'https://xP0Z.github.io/cit-ctf-writeups/'
+theme = 'terminal'
+locale = 'en-us'
+title = 'My New Hugo Project'
+theme = 'terminal'
